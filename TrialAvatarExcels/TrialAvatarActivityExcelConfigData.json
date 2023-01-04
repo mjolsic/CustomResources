@@ -1,0 +1,665 @@
+[
+    {
+        "ScheduleId": 5002001,
+        "AvatarIndexIdList": [
+            1,
+            2,
+            3,
+            0,
+            0
+        ],
+        "RewardIdList": [
+            480001,
+            480002,
+            480003,
+            0,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002002,
+        "AvatarIndexIdList": [
+            4,
+            5,
+            6,
+            0,
+            0
+        ],
+        "RewardIdList": [
+            480001,
+            480002,
+            480003,
+            0,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002003,
+        "AvatarIndexIdList": [
+            7,
+            12,
+            9,
+            13,
+            0
+        ],
+        "RewardIdList": [
+            480001,
+            480002,
+            480003,
+            480004,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002004,
+        "AvatarIndexIdList": [
+            11,
+            8,
+            14,
+            10,
+            0
+        ],
+        "RewardIdList": [
+            480001,
+            480002,
+            480003,
+            480004,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002005,
+        "AvatarIndexIdList": [
+            16,
+            18,
+            19,
+            20,
+            0
+        ],
+        "RewardIdList": [
+            480001,
+            480002,
+            480003,
+            480004,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002006,
+        "AvatarIndexIdList": [
+            15,
+            17,
+            0,
+            0,
+            0
+        ],
+        "RewardIdList": [
+            480001,
+            480002,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002007,
+        "AvatarIndexIdList": [
+            22,
+            31,
+            24,
+            25,
+            0
+        ],
+        "RewardIdList": [
+            480001,
+            480002,
+            480003,
+            480004,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002008,
+        "AvatarIndexIdList": [
+            21,
+            27,
+            28,
+            0,
+            0
+        ],
+        "RewardIdList": [
+            480001,
+            480002,
+            480003,
+            0,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002009,
+        "AvatarIndexIdList": [
+            1,
+            19,
+            14,
+            0,
+            0
+        ],
+        "RewardIdList": [
+            480001,
+            480002,
+            480003,
+            0,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002010,
+        "AvatarIndexIdList": [
+            7,
+            29,
+            18,
+            0,
+            0
+        ],
+        "RewardIdList": [
+            480001,
+            480002,
+            480003,
+            0,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002011,
+        "AvatarIndexIdList": [
+            30,
+            23,
+            26,
+            0,
+            0
+        ],
+        "RewardIdList": [
+            480001,
+            480002,
+            480003,
+            0,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002012,
+        "AvatarIndexIdList": [
+            11,
+            32,
+            31,
+            0,
+            0
+        ],
+        "RewardIdList": [
+            480001,
+            480002,
+            480003,
+            0,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002013,
+        "AvatarIndexIdList": [
+            33,
+            25,
+            27,
+            24,
+            0
+        ],
+        "RewardIdList": [
+            480001,
+            480002,
+            480003,
+            480004,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002014,
+        "AvatarIndexIdList": [
+            4,
+            19,
+            18,
+            0,
+            0
+        ],
+        "RewardIdList": [
+            480001,
+            480002,
+            480003,
+            0,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002015,
+        "AvatarIndexIdList": [
+            34,
+            29,
+            26,
+            14,
+            0
+        ],
+        "RewardIdList": [
+            480001,
+            480002,
+            480003,
+            480004,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002016,
+        "AvatarIndexIdList": [
+            35,
+            23,
+            28,
+            32,
+            0
+        ],
+        "RewardIdList": [
+            480021,
+            480162,
+            480243,
+            480354,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002017,
+        "AvatarIndexIdList": [
+            36,
+            31,
+            25,
+            37,
+            0
+        ],
+        "RewardIdList": [
+            480361,
+            480272,
+            480313,
+            480394,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002018,
+        "AvatarIndexIdList": [
+            38,
+            40,
+            19,
+            0,
+            0
+        ],
+        "RewardIdList": [
+            480401,
+            480412,
+            480303,
+            0,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002019,
+        "AvatarIndexIdList": [
+            39,
+            29,
+            24,
+            27,
+            0
+        ],
+        "RewardIdList": [
+            480421,
+            480322,
+            480133,
+            480144,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002020,
+        "AvatarIndexIdList": [
+            7,
+            23,
+            28,
+            32,
+            0
+        ],
+        "RewardIdList": [
+            480211,
+            480162,
+            480243,
+            480354,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002021,
+        "AvatarIndexIdList": [
+            21,
+            41,
+            31,
+            37,
+            0
+        ],
+        "RewardIdList": [
+            480331,
+            480372,
+            480273,
+            480394,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002022,
+        "AvatarIndexIdList": [
+            16,
+            33,
+            26,
+            29,
+            0
+        ],
+        "RewardIdList": [
+            480261,
+            480381,
+            480202,
+            480323,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002023,
+        "AvatarIndexIdList": [
+            42,
+            43,
+            0,
+            0,
+            0
+        ],
+        "RewardIdList": [
+            480441,
+            480452,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002024,
+        "AvatarIndexIdList": [
+            44,
+            22,
+            45,
+            23,
+            28
+        ],
+        "RewardIdList": [
+            480461,
+            480151,
+            480472,
+            480163,
+            480244
+        ]
+    },
+    {
+        "ScheduleId": 5002025,
+        "AvatarIndexIdList": [
+            11,
+            15,
+            27,
+            24,
+            32
+        ],
+        "RewardIdList": [
+            480181,
+            480251,
+            480142,
+            480133,
+            480354
+        ]
+    },
+    {
+        "ScheduleId": 5002026,
+        "AvatarIndexIdList": [
+            46,
+            18,
+            31,
+            41,
+            0
+        ],
+        "RewardIdList": [
+            480481,
+            480192,
+            480273,
+            480374,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002027,
+        "AvatarIndexIdList": [
+            38,
+            39,
+            26,
+            25,
+            40	
+        ],
+        "RewardIdList": [
+            480401,
+            480421,
+            480202,
+            480313,
+            480414
+        ]
+    },
+    {
+        "ScheduleId": 5002028,
+        "AvatarIndexIdList": [
+            47,
+            1,
+            19,
+            45,
+            0	
+        ],
+        "RewardIdList": [
+            480491,
+            480111,
+            480302,
+            480473,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002029,
+        "AvatarIndexIdList": [
+            35,
+            14,
+            29,
+            37,
+            0	
+        ],
+        "RewardIdList": [
+            480021,
+            480092,
+            480323,
+            480394,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002030,
+        "AvatarIndexIdList": [
+            49,
+            22,
+            32,
+            0,
+            0	
+        ],
+        "RewardIdList": [
+            480501,
+            480151,
+            480352,
+            0,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002031,
+        "AvatarIndexIdList": [
+            42,
+            48,
+            28,
+            43,
+            0	
+        ],
+        "RewardIdList": [
+            480441,
+            480512,
+            480243,
+            480454,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002032,
+        "AvatarIndexIdList": [
+            34,
+            4,
+            50,
+            23,
+            41		
+        ],
+        "RewardIdList": [
+            480341,
+            480171,
+            480522,
+            480163,
+            480374
+        ]
+    },
+    {
+        "ScheduleId": 5002033,
+        "AvatarIndexIdList": [
+            36,
+            26,
+            25,
+            45,
+            0		
+        ],
+        "RewardIdList": [
+            480361,
+            480202,
+            480313,
+            480474,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002034,
+        "AvatarIndexIdList": [
+            53,
+            11,
+            52,
+            31,
+            18			
+        ],
+        "RewardIdList": [
+            480541,
+            480181,
+            480552,
+            480273,
+            480194
+        ]
+    },
+    {
+        "ScheduleId": 5002035,
+        "AvatarIndexIdList": [
+            15,
+            39,
+            51,
+            19,
+            27			
+        ],
+        "RewardIdList": [
+            480251,
+            480421,
+            480532,
+            480303,
+            480144
+        ]
+    },
+    {
+        "ScheduleId": 5002036,
+        "AvatarIndexIdList": [
+            55,
+            1,
+            56,
+            48,
+            37			
+        ],
+        "RewardIdList": [
+            480561,
+            480111,
+            480572,
+            480513,
+            480394
+        ]
+    },
+    {
+        "ScheduleId": 5002037,
+        "AvatarIndexIdList": [
+            54,
+            16,
+            24,
+            0,
+            0		
+        ],
+        "RewardIdList": [
+            480581,
+            480261,
+            480132,
+            0,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002038,
+        "AvatarIndexIdList": [
+            58,
+            36,
+            14,
+            26,
+            0		
+        ],
+        "RewardIdList": [
+            480601,
+            480361,
+            480092,
+            480203,
+            0
+        ]
+    },
+    {
+        "ScheduleId": 5002039,
+        "AvatarIndexIdList": [
+            46,
+            7,
+            57,
+            41,
+            50		
+        ],
+        "RewardIdList": [
+            480481,
+            480211,
+            480592,
+            480373,
+            480524
+        ]
+    }
+]
